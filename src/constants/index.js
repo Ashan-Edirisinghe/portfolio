@@ -134,44 +134,17 @@ export const myProjects = [
       },
     ],
   },
+   
   {
     id: 5,
-    title: "Runner",
-    description: "A simple platformer game built in Unity where the player must keep moving forward without falling.",
-    subDescription: [
-      "Developed in Unity with C# focusing on smooth forward movement and platforming mechanics.",
-      "Designed challenging platforms that test timing and precision as the player progresses.",
-      "Optimized controls and physics for a responsive and seamless gameplay experience.",
-    ],
-    href: "",
-    logo: "",
-    image: "/assets/projects/games/Runner.png",
-    tags: [
-      {
-        id: 1,
-        name: "C#",
-        path: "/assets/logos/csharp.svg",
-      },
-      {
-        id: 2,
-        name: "Unity",
-        path: "/assets/logos/unity.svg",
-      },
-      {
-        id: 3,
-        name: "Blender",
-        path: "/assets/logos/blender.svg",
-      },
-    ],
-  },
-  {
-    id: 6,
-    title: "Karathe player detection system",
+    title: "Website Host In DIGITAL OCEAN",
     description: "A computer vision–based system designed to detect karate players’ positions and identify when a player moves out of the fighting circle, assisting referees and umpires in decision-making.",
     subDescription: [
-      "Developed using computer vision techniques to track player movements accurately in real time.",
-      "Implemented boundary detection to identify when players step outside the circle.",
-      "Designed as an assistive tool to support referees in maintaining fairness during matches.",
+       "~Created two CI/CD pipelines using GitHub Actions:",
+       "~Docker Pipeline: Built Docker images with Docker Compose and deployed them to Docker Hub.",
+       "~Deployment Pipeline: Automated the deployment process to the DigitalOcean droplet.",
+       "~Configured the remote server by SSH access and installed Docker to streamline setup and orchestration.",
+       "~Implemented load balancing using Nginx proxy to manage and distribute traffic across three running containers of the application for better scalability and reliability.",
     ],
     href: "",
     logo: "",
@@ -179,31 +152,23 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: "Python",
-        path: "/assets/logos/python.svg",
+        name: "NGINX",
+        path: "/assets/logos/nginx.svg",
       },
-    ],
-  },
-  {
-    id: 7,
-    title: "A driver safety system",
-    description: "A driver safety system built with Python and MediaPipe to detect signs of drowsiness and alert the driver in real time.",
-    subDescription: [
-      "Implemented facial landmark detection using the MediaPipe library to monitor eye status and head position.",
-      "Developed algorithms to identify when the driver shows signs of sleep or drowsiness.",
-      "Integrated an alert mechanism that activates when drowsiness is detected to improve road safety.",
-    ],
-    href: "",
-    logo: "",
-    image: "/assets/projects/AI/sleep detection.png",
-    tags: [
       {
-        id: 1,
-        name: "Python",
-        path: "/assets/logos/python.svg",
+        id: 2,
+        name: "GITHUB ACTIONS",
+        path: "/assets/logos/nginx.svg",
       },
+      {
+        id: 3,
+        name: "DOCKER",
+        path: "/assets/logos/docker.png",
+      },
+
     ],
   },
+  
 ];
 
 export const mySocials = [

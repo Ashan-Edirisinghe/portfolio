@@ -14,7 +14,7 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/games/Rival.png",
+    image: "/assets/projects/ ",
     tags: [
       {
         id: 1,
@@ -49,7 +49,7 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/games/Runner of the maze.png",
+    image: "/assets/projects/ ",
     tags: [
       {
         id: 1,
@@ -82,7 +82,7 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/games/Trigger.png",
+    image: "/assets/projects/ ",
     tags: [
       {
         id: 1,
@@ -108,7 +108,7 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/games/Grow in the Dark.png",
+    image: "/assets/projects/ ",
     tags: [
       {
         id: 1,
@@ -138,7 +138,7 @@ export const myProjects = [
   {
     id: 5,
     title: "Website Host In DIGITAL OCEAN",
-    description: "A computer vision–based system designed to detect karate players’ positions and identify when a player moves out of the fighting circle, assisting referees and umpires in decision-making.",
+    description: "",
     subDescription: [
        "~Created two CI/CD pipelines using GitHub Actions:",
        "~Docker Pipeline: Built Docker images with Docker Compose and deployed them to Docker Hub.",
@@ -148,7 +148,7 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/AI/karathe.png",
+    image: "/assets/projects/ ",
     tags: [
       {
         id: 1,

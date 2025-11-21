@@ -14,7 +14,12 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/ ",
+    image: "/assets/projects/web/hr-1.png",
+    images: [
+      "/assets/projects/web/hr-1.png",
+      "/assets/projects/web/hr-2.png",
+      "/assets/projects/web/hr-3.png"
+    ],
     tags: [
       {
         id: 1,
@@ -49,7 +54,12 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/ ",
+    image: "/assets/projects/web/student-1.png",
+    images: [
+      "/assets/projects/web/student-1.png",
+      "/assets/projects/web/student-2.png",
+      "/assets/projects/web/student-3.png"
+    ],
     tags: [
       {
         id: 1,
@@ -82,7 +92,12 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/ ",
+    image: "/assets/projects/web/wedding-1.png",
+    images: [
+      "/assets/projects/web/wedding-1.png",
+      "/assets/projects/web/wedding-2.png",
+      "/assets/projects/web/wedding-3.png"
+    ],
     tags: [
       {
         id: 1,
@@ -108,7 +123,12 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/ ",
+    image: "/assets/projects/web/ecommerce-1.png",
+    images: [
+      "/assets/projects/web/ecommerce-1.png",
+      "/assets/projects/web/ecommerce-2.png",
+      "/assets/projects/web/ecommerce-3.png"
+    ],
     tags: [
       {
         id: 1,
@@ -148,7 +168,12 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/ ",
+    image: "/assets/projects/web/digitalocean-1.png",
+    images: [
+      "/assets/projects/web/digitalocean-1.png",
+      "/assets/projects/web/digitalocean-2.png",
+      "/assets/projects/web/digitalocean-3.png"
+    ],
     tags: [
       {
         id: 1,

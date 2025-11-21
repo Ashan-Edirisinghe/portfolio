@@ -60,12 +60,12 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/web/sm1.png",
+    image: "/assets/projects/sms/sm1.png",
     images: [
-      "/assets/projects/web/sms/sm1.png",
-      "/assets/projects/web/sms/sm2.png",
-      "/assets/projects/web/sms/sm3.png",
-      "/assets/projects/web/sms/sm4.png"
+      "/assets/projects/sms/sm1.png",
+      "/assets/projects/sms/sm2.png",
+      "/assets/projects/sms/sm3.png",
+      "/assets/projects/sms/sm4.png"
     ],
     tags: [
       {

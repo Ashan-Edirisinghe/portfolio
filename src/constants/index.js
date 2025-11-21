@@ -174,11 +174,10 @@ export const myProjects = [
     ],
     href: "http://ashandev.codes",
     logo: "",
-    image: "/assets/projects/web/digitalocean-1.png",
+    image: "/assets/projects/nginx.png",
     images: [
-      "/assets/projects/web/digitalocean-1.png",
-      "/assets/projects/web/digitalocean-2.png",
-      "/assets/projects/web/digitalocean-3.png"
+      "/assets/projects/nginx.png",
+      
     ],
     tags: [
       {

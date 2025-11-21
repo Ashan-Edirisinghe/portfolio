@@ -16,9 +16,15 @@ export const myProjects = [
     logo: "",
     image: "/assets/projects/web/hr-1.png",
     images: [
-      "/assets/projects/web/hr-1.png",
-      "/assets/projects/web/hr-2.png",
-      "/assets/projects/web/hr-3.png"
+      "/assets/projects/hr/hr1.png",
+      "/assets/projects/hr/hr2.png",
+      "/assets/projects/hr/hr3.png",
+      "/assets/projects/hr/hr4.png",
+      "/assets/projects/hr/hr5.png",
+      "/assets/projects/hr/hr6.png",
+
+
+      
     ],
     tags: [
       {
@@ -54,11 +60,12 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/web/student-1.png",
+    image: "/assets/projects/web/sm1.png",
     images: [
-      "/assets/projects/web/student-1.png",
-      "/assets/projects/web/student-2.png",
-      "/assets/projects/web/student-3.png"
+      "/assets/projects/web/sms/sm1.png",
+      "/assets/projects/web/sms/sm2.png",
+      "/assets/projects/web/sms/sm3.png",
+      "/assets/projects/web/sms/sm4.png"
     ],
     tags: [
       {

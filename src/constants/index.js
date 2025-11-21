@@ -172,7 +172,7 @@ export const myProjects = [
        "~Configured the remote server by SSH access and installed Docker to streamline setup and orchestration.",
        "~Implemented load balancing using Nginx proxy to manage and distribute traffic across three running containers of the application for better scalability and reliability.",
     ],
-    href: "",
+    href: "http://ashandev.codes",
     logo: "",
     image: "/assets/projects/web/digitalocean-1.png",
     images: [

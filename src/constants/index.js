@@ -97,13 +97,12 @@ export const myProjects = [
     subDescription: [
       "~Developed email sending function using email.js for users to contact the owner.",
     ],
-    href: "",
+    href: "https://solidweddings.netlify.app/contact",
     logo: "",
-    image: "/assets/projects/web/wedding-1.png",
+    image: "/assets/projects/sw.png",
     images: [
-      "/assets/projects/web/wedding-1.png",
-      "/assets/projects/web/wedding-2.png",
-      "/assets/projects/web/wedding-3.png"
+      "/assets/projects/sw.png",
+      
     ],
     tags: [
       {

@@ -184,12 +184,12 @@ export const myProjects = [
       {
         id: 1,
         name: "NGINX",
-        path: "/assets/logos/nginx.svg",
+        path: "/assets/logos/nginx.png",
       },
       {
         id: 2,
         name: "GITHUB ACTIONS",
-        path: "/assets/logos/nginx.svg",
+        path: "/assets/logos/actions.png",
       },
       {
         id: 3,

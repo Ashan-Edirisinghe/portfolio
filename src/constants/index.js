@@ -198,6 +198,47 @@ export const myProjects = [
 
     ],
   },
+  {
+    id: 6,
+    title: "Movie website",
+    description: "Movie searching website using TMDB API to fetch movie data and display to users.",
+    subDescription: [
+       "~ Design using react and tailwindcss:",
+       "~ Impliment TBDM API to search moviews and optimize search using debounce hook.",
+       "~ Developed ranking functionality base on search results using custom logic.",
+        
+    ],
+    href:  "",
+    logo: "",
+    image: "/assets/projects/nginx.png",
+    images: [
+      "/assets/projects/nginx.png",
+      
+    ],
+    tags: [
+      {
+        id: 1,
+        name: "React",
+        path: "/assets/logos/react.png",
+      },
+      {
+        id: 2,
+        name: "Vite",
+        path: "/assets/logos/vite.png",
+      },
+      {
+        id: 3,
+        name: "TailwindCSS",
+        path: "/assets/logos/tailwindcss.png",
+      },
+      {
+        id: 4,
+        name: "MongoDB",
+        path: "/assets/logos/mongo.png",
+      }
+
+    ],
+  },
   
 ];
 

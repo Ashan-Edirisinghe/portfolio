@@ -220,7 +220,7 @@ export const myProjects = [
       {
         id: 2,
         name: "Vite",
-        path: "/assets/logos/vite.png",
+        path: "/assets/logos/vitejs.png",
       },
       {
         id: 3,

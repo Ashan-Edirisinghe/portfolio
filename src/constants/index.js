@@ -210,11 +210,7 @@ export const myProjects = [
     ],
     href:  "",
     logo: "",
-    image: "/assets/projects/nginx.png",
-    images: [
-      "/assets/projects/nginx.png",
-      
-    ],
+     
     tags: [
       {
         id: 1,

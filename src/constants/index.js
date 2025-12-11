@@ -240,6 +240,54 @@ export const myProjects = [
       "/assets/projects/movie/mw2.png",
     ]
   },
+
+  {
+    id: 7,
+    title: "News Blog Website",
+    description: "A community website to post local news..",
+    subDescription: [
+       "~ Implemented CRUD functions to manage posts using a REST API.",
+       "~ Developed front-end designs of the web",
+       "~ Used Clerk Access Management services for authentication.",
+        
+    ],
+    href:  "",
+    logo: "",
+     
+    tags: [
+      {
+        id: 1,
+        name: "React",
+        path: "/assets/logos/react.png",
+      },
+      {
+        id: 2,
+        name: "Redux",
+        path: "/assets/logos/redux.png",
+      },
+      {
+        id: 3,
+        name: "MongoDB",
+        path: "/assets/logos/mongo.png",
+      },
+      {
+        id: 4,
+        name: "NodeJS",
+        path: "/assets/logos/nodeimg.png",
+      },
+      {
+        id: 5,
+        name: "clerk",
+        path: "/assets/logos/clerk.png",
+      }
+
+
+    ],
+    images: [
+      "/assets/projects/movie/mw1.png",
+      "/assets/projects/movie/mw2.png",
+    ]
+  },
   
 ];
 

@@ -237,7 +237,12 @@ export const myProjects = [
         path: "/assets/logos/mongo.png",
       }
 
+
     ],
+    images: [
+      "/assets/projects/movie/mw1.png",
+      "/assets/projects/movie/mw2.png",
+    ]
   },
   
 ];

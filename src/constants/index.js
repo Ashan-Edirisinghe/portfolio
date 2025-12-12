@@ -284,8 +284,8 @@ export const myProjects = [
 
     ],
     images: [
-      "/assets/projects/movie/mw1.png",
-      "/assets/projects/movie/mw2.png",
+      "/assets/projects/movie/sm1.png",
+      "/assets/projects/movie/sm2.png",
     ]
   },
   
